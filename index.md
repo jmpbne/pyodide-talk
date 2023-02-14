@@ -54,14 +54,6 @@ June 29 2022
 
 ---
 
-Keep in mind that some slides were removed and that the presented information may be outdated.
-
-&nbsp;
-
-This slideshow was created with older version of Marp, so it doesn't look the same anymore.
-
----
-
 # 🚫 We won't discuss these:
 
 <!-- prettier-ignore -->
@@ -135,8 +127,6 @@ Minified Django code
 * ...
 
 ---
-
-![bg opacity:0.05](img/sweat-bg.png)
 
 <style scoped>
 * { text-align: center }
